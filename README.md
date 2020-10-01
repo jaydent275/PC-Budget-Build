@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Jayden's AMD PC Budget Build
 
-You can use the [editor on GitHub](https://github.com/jaydent275/PC-Budget-Build/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is just a little parts list for gamers on a budget of $600 or less. The following parts can be found at this [link] (https://pcpartpicker.com/list/vXYGBZ) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### CPU and GPU Combo
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For solid 1080p gaming we will be using the Ryzen 3 3100
 
 ```markdown
 Syntax highlighted code block

@@ -1,6 +1,6 @@
 ## Welcome to Jayden's AMD PC Budget Build
 
-This is just a little parts list for gamers on a budget of $600 or less. The following parts can be found at this [link](https://pcpartpicker.com/list/vXYGBZ) 
+This is just a little parts list for gamers on a budget of $600 or less. The following parts can be found at this [link.](https://pcpartpicker.com/list/vXYGBZ) 
 
 ### CPU and GPU Combo
 
@@ -9,6 +9,7 @@ The Ryzen 3 3100 is a quad-core, 8 threaded CPU, meaning that is very capable of
 The GTX 1650 Super is for the streamers that are on a budget, as NVIDIA's GPUS come with their NVENC encoder that does the heavy lifting for streaming. However, this is a very able card for gaming or rendering videos. From price to performance, this is the best NVIDIA card on the market as of right now. This is the TUF Gaming option with 4 gigabytes of GDDR6 memory. 
 
 ![ryzen 3 3100](https://static.bhphoto.com/images/images1000x1000/1588841160_1558667.jpg)
+![gtx 1650 super](https://cdn.pcpartpicker.com/static/forever/images/product/8a627374e0bc62f1d88e09a59fd041be.1600.jpg)
 
 ### Motherboard
 

@@ -8,7 +8,7 @@ For solid 1080p gaming we will be using the Ryzen 3 3100 and the GTX 1650 Super 
 The Ryzen 3 3100 is a quad-core, 8 threaded CPU, meaning that is very capable of simple everyday tasks and gaming. 
 The GTX 1650 Super is for the streamers that are on a budget, as NVIDIA's GPUS come with their NVENC encoder that does the heavy lifting for streaming. However, this is a very able card for gaming or rendering videos. From price to performance, this is the best NVIDIA card on the market as of right now. This is the TUF Gaming option with 4 gigabytes of GDDR6 memory. 
 
-![(https://static.bhphoto.com/images/images1000x1000/1588841160_1558667.jpg)]!
+![ryzen 3 3100](https://static.bhphoto.com/images/images1000x1000/1588841160_1558667.jpg)
 
 ### Motherboard
 
